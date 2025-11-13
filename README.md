@@ -116,7 +116,9 @@ Ideas for future improvements:
 ## 📞 Contact
 
 **Author:** Kiarash Aghakhani
+**Email:** kiarash1988@gmail.com
 
 Built with ❤️ using Python.  
 If you find this project useful, please ⭐ the repository!
+
 
