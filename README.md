@@ -1,6 +1,5 @@
 # Nobel Prize Data Analysis 🏆📊
 
-![Nobel Prize Medal](Nobel_Prize.png)
 > **Comprehensive Analysis of Nobel Laureates (1901–2023)**
 
 ---
@@ -120,3 +119,4 @@ Ideas for future improvements:
 
 Built with ❤️ using Python.  
 If you find this project useful, please ⭐ the repository!
+
