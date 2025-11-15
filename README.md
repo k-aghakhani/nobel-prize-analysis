@@ -118,8 +118,9 @@ Ideas for future improvements:
 - **Author:** Kiarash Aghakhani
 - **Email:** kiarash1988@gmail.com
 
-If you find this project useful, please ⭐ the repository!
+If you find this project useful, please ⭐ the repository!/
 Built with ❤️ using Python.  
+
 
 
 
